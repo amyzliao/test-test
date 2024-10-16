@@ -5,6 +5,8 @@ Hello and welcome to workshop 3! We hope you are having a good time.
 
 This is a demonstration of how to manage collaboration using git and github.
 
+new thing
+
 ### Instructions
 
 0. You should have already cloned (downloaded) this repository. You should have this file open in your editor/IDE of choice (we recommend vscode).
