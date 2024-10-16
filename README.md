@@ -23,4 +23,4 @@ new thing
 
 Replace INSERT_YOUR_NAME with your name in the text below:
 
-Amy Liao was here!!!
+Joe Bob was here!!!
