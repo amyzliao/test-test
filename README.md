@@ -21,4 +21,4 @@ This is a demonstration of how to manage collaboration using git and github.
 
 Replace INSERT_YOUR_NAME with your name in the text below:
 
-INSERT_YOUR_NAME was here!!!
+Joe Smith was here!!!
