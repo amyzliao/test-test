@@ -5,7 +5,7 @@ Hello and welcome to workshop 3! We hope you are having a good time.
 
 This is a demonstration of how to manage collaboration using git and github.
 
-hehehehehehehhe
+hehehehehehehhe hohohoho
 
 ### Instructions
 
